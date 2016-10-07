@@ -1,4 +1,4 @@
-# Elena Vilimaitė
+# Elena Vilimaitė :)
 ## Friendly Human
 ### Humble Programmer
 ----
