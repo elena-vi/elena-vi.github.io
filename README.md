@@ -7,7 +7,10 @@ Innovative, the confident and motivated developer. Makers Academy alumna who is 
 
 ### Experience:
 
-#### Front End Developer, Career Interactive — Aug 2016 - Present
+#### Developer, vInspired — Mar 2017 - Present 
+![coming soon](https://i.giphy.com/GmDPfxhuMxwDm.gif "Coming Soon")
+
+#### Front End Developer, Career Interactive — Aug 2016 - Mar 2017
 Career Interactive is the UK's Leading Career Coaching Provider for International Students. My responsibilities at CIUK included: building and maintaining the front end of the coaching platform - this involves using pure vanilla ES6 JavaScript; maintaining and improving the company's website which was built using Django web framework and Wagtail content management system; also assisting in finding solutions for the API design which would allow the old Ruby on Rails application with the newly designed Go application.
 
 #### Junior Developer, Tibit — Nov 2014 - Jun 2016
