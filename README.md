@@ -3,7 +3,7 @@
 ### Humble Programmer
 ----
 ### Résumé
-Innovative, the confident and motivated developer. Makers Academy alumna who is passionate about writing good, clean and reusable code by following best practices of test-driven development.
+Innovative, confident and motivated developer. Makers Academy alumna who is passionate about writing good, clean and reusable code by following best practices of test-driven development.
 
 ### Experience:
 
