@@ -1,6 +1,5 @@
 # Elena Vilimaitė
-## Friendly Human
-### Humble Programmer
+#### [elena-vi.github.io](https://elena-vi.github.io)
 ----
 ### Résumé
 Innovative, confident and motivated developer. Makers Academy alumna who is passionate about writing good, clean and reusable code by following best practices of test-driven development.
