@@ -1,4 +1,4 @@
-# Elena Vilimaitė :)
+# Elena Vilimaitė
 ## Friendly Human
 ### Humble Programmer
 ----
@@ -64,4 +64,6 @@ During the apprenticeship, I worked on an object orientated Java database monito
 
 ### Hobbies and Interests
 
-In my free time, I enjoy fishing and gardening, along with getting involved with the league of legends community, by participating in tournaments and meet- ups. I highly support the open source community, by volunteering at the Mozilla Festival, which happens every year over a period of three days, where loads of open source projects hold workshops showcasing their products and holding talks about various tech and social topics. Also, I like to support new and upcoming music bands by attending concerts and album launches.
+I highly support the open source community, for the last three years I have been volunteering at Mozilla Festival, which happens every year over a period of three days: where loads of open source projects hold workshops showcasing their products and holding talks about various tech and social topics.
+
+In my free time, I enjoy fishing and gardening, along with getting involved with the league of legends community, by participating in tournaments and meet-ups. Also, I like to support new and upcoming music bands by attending concerts and album launches.
