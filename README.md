@@ -1,7 +1,7 @@
 # Elena Vilimaitė
 #### [elena-vi.github.io](https://elena-vi.github.io)
-#### elena.vilimaite@gmail.com
-#### Tel: 07533987196
+#### 07533987196
+
 ----
 ### Résumé
 Innovative, confident and motivated developer. Makers Academy alumna who is passionate about writing good, clean and reusable code by following best practices of test-driven development.
