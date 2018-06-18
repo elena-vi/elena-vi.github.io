@@ -8,8 +8,8 @@ Innovative, confident and motivated developer. Makers Academy alumna who is pass
 
 ### Experience:
 
-#### Developer, vInspired — Mar 2017 - Present 
-Visnpired is a charity which helps young people find volunteering opportunities. My responsibilities here are developing new features on the Ruby on Rails platform and reducing technical debt by refactoring and simplifying layers of unnecessary complexion which was left behind by numerous agencies; actively participating in sprint planning sessions and mentoring apprentice developers. Furthermore getting involved in user testing and user journey mapping, this has helped me build an understand why certain UX decisions are made.
+#### Developer, vInspired — Mar 2017 - Present
+vIsnpired is a charity which helps young people find volunteering opportunities. My responsibilities here are developing new features on the Ruby on Rails platform and reducing technical debt by refactoring and simplifying layers of unnecessary complexion which was left behind by numerous agencies; actively participating in sprint planning sessions and mentoring apprentice developers. Furthermore getting involved in user testing and user journey mapping, this has helped me build an understand why certain UX decisions are made. My latest project at vInspired is setting up the Inspired Card EYCA registration journey, where we had to collect user data and process images using the cloudinary API.
 
 #### Front End Developer, Career Interactive — Aug 2016 - Mar 2017
 Career Interactive is the UK's Leading Career Coaching Provider for International Students. My responsibilities at CIUK included: building and maintaining the front end of the coaching platform - this involves using pure vanilla ES6 JavaScript; maintaining and improving the company's website which was built using Django web framework and Wagtail content management system; also assisting in finding solutions for the API design which would allow the old Ruby on Rails application with the newly designed Go application.
@@ -36,16 +36,17 @@ During the apprenticeship, I worked on an object orientated Java database monito
 
 ### Languages:
 
-- HTML
-- Java
-- CSS
 - Ruby
 - JavaScript
+- HTML
+- CSS
 - SQL
 
 ### Technologies:
 
 - Git
+- Ruby on Rails
+- RSpec
 - HAML
 - SASS
 - jQuery
@@ -56,9 +57,7 @@ During the apprenticeship, I worked on an object orientated Java database monito
 - JasmineJs
 - Mocha
 - ZombieJs
-- Ruby on Rails
 - Capybara
-- RSpec
 - Selenium
 - mySQL
 - PostgreSQL
