@@ -4,7 +4,7 @@
 
         // PRE loader
         $(window).load(function(){
-          $('.preloader').fadeOut(1000); // set duration in brackets    
+          $('.preloader').fadeOut(1000); // set duration in brackets
         });
 
 
@@ -31,10 +31,17 @@
             }, 1000);
             event.preventDefault();
           });
-        });  
+        });
 
 
         // WOW Animation js
         new WOW({ mobile: false }).init();
+
+        // elevator.js
+        var elevator = new Elevator({
+          element: document.querySelector('#back-to-top'),
+          mainAudio: './music/elevator.mp3', // Music from http://www.bensound.com/
+          endAudio:  './music/ding.mp3'
+        });
 
 })(jQuery);
