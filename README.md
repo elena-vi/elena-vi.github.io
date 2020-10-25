@@ -3,12 +3,18 @@
 #### 07533987196
 
 ----
-### Résumé
+### CV
 Innovative, confident and motivated developer. Makers Academy alumna who is passionate about writing good, clean and reusable code by following best practices of test-driven development.
 
 ### Experience:
 
 #### Software Engineer, MadeTech — Oct 2018 - Present
+Oct 2018 - feb 2019: Hackney: Income Collection phase 2
+Jun 2019 - aug 2019: Ministry of Justice: Formbuilder
+Aug 2019 - jan 2020: Hackney: Income Collection phase 3
+Feb 2020 - apl 2020: Hackney: Single view
+May 2020 - sep 2020: Hackney: Income Collection phase 4
+Oct 2020 - present: Ministry of Justice: Prison Technology Transformation Project - Infrastructure Monitoring and Alerting
 
 #### Software Developer, vInspired — Mar 2017 - Sep - 2018
 vIsnpired is a charity which helps young people find volunteering opportunities. My responsibilities here are developing new features on the Ruby on Rails platform and reducing technical debt by refactoring and simplifying layers of unnecessary complexion which was left behind by numerous agencies; actively participating in sprint planning sessions and mentoring apprentice developers. Furthermore getting involved in user testing and user journey mapping, this has helped me build an understand why certain UX decisions are made. My latest project at vInspired is setting up the Inspired Card EYCA registration journey, where we had to collect user data and process images using the cloudinary API.
