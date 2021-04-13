@@ -1,9 +1,11 @@
 # Elena Vilimaitė
+#### [elena-vi.github.io](https://elena-vi.github.io)
+----
 Innovative, confident and motivated developer. Makers Academy alumna, who is passionate about writing good, clean and reusable code by following best practices of test-driven development.
 
 ### Experience:
 
-#### Software Engineer, Made Tech — Oct 2018 - Present
+#### Senior Software Engineer, Made Tech — Oct 2018 - Present
 Made Tech provide Digital, Data and Technology services to the UK public sector. My responsibilities here include upskilling both client and internal engineers, whilst delivering software that followed the Government Digital Service standards and provided the most value to the user. I have worked on a range of different delivers that used several different technologies:
 - Hackney: Housing Income Collection (phase 2 Oct 2018 - Feb 2019, phase 3 Aug 2019 - Jan 2020, phase 4 May 2020 - Sep 2020)
 	- The technology used: AWS RDS, MySQL, .NET Core, AWS S3, GovNotify, Ruby on Rails, CircleCi, Sentry, AWS ECR, AWS EC2 and Docker

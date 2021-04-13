@@ -45,8 +45,8 @@ h4 {
   font-weight: normal;
 }
 
-p {
-    color: #878787;
+p, li {
+    /* color: #878787; */
     font-size: 16px;
     font-weight: 300;
     line-height: 25px;
@@ -54,7 +54,7 @@ p {
 }
 
 strong, span {
-  color: #878787;
+  /* color: #878787; */
   font-weight: normal;
 }
 
