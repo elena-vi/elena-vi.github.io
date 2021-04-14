@@ -65,7 +65,8 @@ strong, span {
 -----------------------------------------*/
 
 .section-btn {
-  background: #8BC34A;
+  /* background: #8BC34A; */
+  background: #3e3e40;
   border: none;
   border-radius: 50px;
   color: #ffffff;
@@ -426,7 +427,8 @@ a:hover, a:active, a:focus {
 }
 
 #contact button#submit:hover {
-  background: #8BC34A;
+  /* background: #8BC34A; */
+  background: #3e3e40;
   color: #ffffff;
 }
 
@@ -465,7 +467,8 @@ a:hover, a:active, a:focus {
 }
 
 .social-icon li a:hover {
-  background: #8BC34A;
+  /* background: #8BC34A; */
+  background: #3e3e40;
   transform: scale(1.1);
 }
 
