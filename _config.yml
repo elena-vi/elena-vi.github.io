@@ -27,8 +27,10 @@ twitter_username: Sass_Jazz
 github_username:  elena-vi
 
 # Build settings
-theme: minima
+# theme: jekyll-theme-minimal
+# theme: minima
 plugins:
+  - github-pages
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
