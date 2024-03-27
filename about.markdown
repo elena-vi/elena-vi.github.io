@@ -24,6 +24,10 @@ Miscellaneous: Serverless, AWS Lambda, AWS S3, GovNotify, Cypress
 
 ## Experience
 
+#### 101 Ways, London - Senior Software Consultant
+March 2023 - Present
+
+
 #### Made Tech, London - Senior Software Engineer
 October 2018 - March 2023
 
